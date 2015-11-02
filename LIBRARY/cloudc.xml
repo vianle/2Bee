@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cloudc" itemID="52c28846-000002b8" linkageExportForAS="true" linkageClassName="cloudc" lastModified="1388480582">
+  <timeline>
+    <DOMTimeline name="cloudc">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="cloud2.png">
+                  <matrix>
+                    <Matrix a="0.139205932617188" d="0.1309814453125" tx="-132.8" ty="-120.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="954" y="920"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

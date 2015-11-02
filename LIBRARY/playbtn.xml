@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="playbtn" itemID="52c2822e-0000025c" linkageExportForAS="true" linkageClassName="playclick" lastModified="1388479022">
+  <timeline>
+    <DOMTimeline name="playbtn">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="play.png">
+                  <matrix>
+                    <Matrix a="0.254928588867188" d="0.234451293945313" tx="-95.6" ty="-52.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="375" y="225"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

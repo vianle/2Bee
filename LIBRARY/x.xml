@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="x" itemID="52c283a1-0000026e" linkageExportForAS="true" linkageClassName="x" lastModified="1388479393">
+  <timeline>
+    <DOMTimeline name="x">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="X.png">
+                  <matrix>
+                    <Matrix a="0.101531982421875" d="0.104110717773438" tx="-33.6" ty="-29.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="330.95" y="279.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

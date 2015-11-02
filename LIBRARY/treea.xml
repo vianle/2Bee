@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="treea" itemID="52c287d5-00000296" linkageExportForAS="true" linkageClassName="treea" lastModified="1388480495">
+  <timeline>
+    <DOMTimeline name="treea">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="tree1.png">
+                  <matrix>
+                    <Matrix a="0.106155395507813" d="0.0859222412109375" tx="-135.35" ty="-141.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1275" y="1649.75"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

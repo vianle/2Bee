@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="beea" itemID="52c28921-000002c0" linkageExportForAS="true" linkageClassName="beea" lastModified="1388480801">
+  <timeline>
+    <DOMTimeline name="beea">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="bee.png">
+                  <matrix>
+                    <Matrix a="0.0188751220703125" d="0.016143798828125" tx="-18" ty="-14.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="953.65" y="919.85"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="treec" itemID="52c287e9-000002a0" linkageExportForAS="true" linkageClassName="treec" lastModified="1388480489">
+  <timeline>
+    <DOMTimeline name="treec">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="tree2.png">
+                  <matrix>
+                    <Matrix a="0.0605926513671875" d="0.064117431640625" tx="-77.25" ty="-105.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1274.9" y="1650.1"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

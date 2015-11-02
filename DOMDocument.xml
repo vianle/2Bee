@@ -1,0 +1,1020 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#87CBDA" currentTimeline="2" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" nextSceneIdentifier="4" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <fonts>
+          <DOMFontItem name="Font 1" itemID="52c2a5bc-00000301" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="Font1" font="Champagne&amp;Limousines" size="0" id="1" sourceLastImported="1388489034" embedRanges="9999"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="bee.png" itemID="52c27b5d-000001d8" sourceExternalFilepath="./LIBRARY/bee.png" sourceLastImported="1388476187" externalFileCRC32="2055260949" externalFileSize="115708" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bee.png" bitmapDataHRef="M 1 1388477277.dat" frameRight="38160" frameBottom="36800"/>
+          <DOMBitmapItem name="Bitmap 1" itemID="52c28493-00000272" sourceExternalFilepath="./LIBRARY/Bitmap 1.png" sourceLastImported="1388477899" externalFileCRC32="1685442556" externalFileSize="25866" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 1.png" bitmapDataHRef="M 14 1388477899.dat" frameRight="17680" frameBottom="11920"/>
+          <DOMBitmapItem name="bushes.png" itemID="52c27b5f-000001dd" sourceExternalFilepath="./LIBRARY/bushes.png" sourceLastImported="1388473698" externalFileCRC32="932767300" externalFileSize="54126" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bushes.png" bitmapDataHRef="M 2 1388477279.dat" frameRight="66000" frameBottom="16160"/>
+          <DOMBitmapItem name="cloud.png" itemID="52c27b60-000001e2" sourceExternalFilepath="./LIBRARY/cloud.png" sourceLastImported="1388475368" externalFileCRC32="3521879590" externalFileSize="60555" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cloud.png" bitmapDataHRef="M 3 1388477280.dat" frameRight="38160" frameBottom="36800"/>
+          <DOMBitmapItem name="cloud2.png" itemID="52c27b60-000001e7" sourceExternalFilepath="./LIBRARY/cloud2.png" sourceLastImported="1388475399" externalFileCRC32="730620239" externalFileSize="63051" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cloud2.png" bitmapDataHRef="M 4 1388477280.dat" frameRight="38160" frameBottom="36800"/>
+          <DOMBitmapItem name="cloud3.png" itemID="52c27b61-000001ec" sourceExternalFilepath="./LIBRARY/cloud3.png" sourceLastImported="1388475469" externalFileCRC32="850586623" externalFileSize="58505" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="cloud3.png" bitmapDataHRef="M 5 1388477281.dat" frameRight="38160" frameBottom="36800"/>
+          <DOMBitmapItem name="flower.png" itemID="52c27b62-000001f1" sourceExternalFilepath="./LIBRARY/flower.png" sourceLastImported="1388484780" externalFileCRC32="3049877388" externalFileSize="75598" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="flower.png" bitmapDataHRef="M 6 1388477282.dat" frameRight="38160" frameBottom="36800"/>
+          <DOMBitmapItem name="instruct.png" itemID="52c27b64-000001f6" sourceExternalFilepath="./LIBRARY/instruct.png" sourceLastImported="1388476620" externalFileCRC32="608441631" externalFileSize="7792" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="instruct.png" bitmapDataHRef="M 7 1388477284.dat" frameRight="15000" frameBottom="9000"/>
+          <DOMBitmapItem name="instructions copy.png" itemID="52c27b64-000001fb" sourceExternalFilepath="./LIBRARY/instructions copy.png" sourceLastImported="1388477011" externalFileCRC32="3784699592" externalFileSize="141326" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="instructions copy.png" bitmapDataHRef="M 8 1388477284.dat" frameRight="48000" frameBottom="48000"/>
+          <DOMBitmapItem name="play.png" itemID="52c27b65-00000200" sourceExternalFilepath="./LIBRARY/play.png" sourceLastImported="1388476550" externalFileCRC32="3023826235" externalFileSize="7282" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="play.png" bitmapDataHRef="M 9 1388477285.dat" frameRight="15000" frameBottom="9000"/>
+          <DOMBitmapItem name="tree1.png" itemID="52c27b65-00000205" sourceExternalFilepath="./LIBRARY/tree1.png" sourceLastImported="1388473969" externalFileCRC32="2249367848" externalFileSize="120790" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="tree1.png" bitmapDataHRef="M 10 1388477285.dat" frameRight="51000" frameBottom="66000"/>
+          <DOMBitmapItem name="tree2.png" itemID="52c27b68-0000020a" sourceExternalFilepath="./LIBRARY/tree2.png" sourceLastImported="1388474031" externalFileCRC32="3009568" externalFileSize="132065" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="tree2.png" bitmapDataHRef="M 11 1388477288.dat" frameRight="51000" frameBottom="66000"/>
+          <DOMBitmapItem name="tree3.png" itemID="52c27b6a-0000020f" sourceExternalFilepath="./LIBRARY/tree3.png" sourceLastImported="1388474239" externalFileCRC32="2761643946" externalFileSize="139578" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="tree3.png" bitmapDataHRef="M 12 1388477290.dat" frameRight="51000" frameBottom="66000"/>
+          <DOMBitmapItem name="X.png" itemID="52c27b6d-00000214" sourceExternalFilepath="./LIBRARY/X.png" sourceLastImported="1388477123" externalFileCRC32="667842203" externalFileSize="16335" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="X.png" bitmapDataHRef="M 13 1388477293.dat" frameRight="13240" frameBottom="11180"/>
+     </media>
+     <symbols>
+          <Include href="beea.xml" itemID="52c28921-000002c0" lastModified="1388480801"/>
+          <Include href="busha.xml" itemID="52c286e3-0000027e" lastModified="1388480227"/>
+          <Include href="bushb.xml" itemID="52c286ee-00000283" lastModified="1388480454"/>
+          <Include href="bushc.xml" itemID="52c286f6-00000288" lastModified="1388480460"/>
+          <Include href="clouda.xml" itemID="52c28835-000002ae" lastModified="1388480565"/>
+          <Include href="cloudb.xml" itemID="52c2883d-000002b3" lastModified="1388480573"/>
+          <Include href="cloudc.xml" itemID="52c28846-000002b8" lastModified="1388480582"/>
+          <Include href="flower.xml" itemID="52c298ce-000002cc" lastModified="1388484815"/>
+          <Include href="instructbtn.xml" itemID="52c28299-0000025e" lastModified="1388479157"/>
+          <Include href="Instructions.xml" itemID="52c28365-00000266" lastModified="1388479334"/>
+          <Include href="playbtn.xml" itemID="52c2822e-0000025c" lastModified="1388479022"/>
+          <Include href="treea.xml" itemID="52c287d5-00000296" lastModified="1388480495"/>
+          <Include href="treeb.xml" itemID="52c287e0-0000029b" lastModified="1388480480"/>
+          <Include href="treec.xml" itemID="52c287e9-000002a0" lastModified="1388480489"/>
+          <Include href="x.xml" itemID="52c283a1-0000026e" lastModified="1388479393"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[import flash.display.Sprite;
+
+playbtn.addEventListener(MouseEvent.CLICK, fl_MouseClickHandler_2);
+
+function fl_MouseClickHandler_2(event:MouseEvent):void
+{
+	gotoAndStop(1, "Scene 2")
+}
+
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="Bitmap 1">
+                                             <matrix>
+                                                  <Matrix tx="-116.7" ty="-62.1"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMSymbolInstance libraryItemName="playbtn" name="playbtn" centerPoint3DX="312.45" centerPoint3DY="191.3">
+                                             <matrix>
+                                                  <Matrix tx="312.45" ty="191.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="instructbtn" name="Instruct" centerPoint3DX="312.45" centerPoint3DY="265.4">
+                                             <matrix>
+                                                  <Matrix tx="312.45" ty="265.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4FFF4F">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="bushes.png">
+                                             <matrix>
+                                                  <Matrix a="0.181854248046875" d="0.205322265625" tx="-25.1" ty="279.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1649.95" y="404"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="tree1.png">
+                                             <matrix>
+                                                  <Matrix a="0.142974853515625" d="0.142974853515625" tx="-64.5" ty="-42.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1275.05" y="1649.95"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="tree2.png">
+                                             <matrix>
+                                                  <Matrix a="0.0951385498046875" d="0.0951385498046875" tx="-86.65" ty="76.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1275" y="1650.2"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="tree3.png">
+                                             <matrix>
+                                                  <Matrix a="0.0968780517578125" d="0.0968780517578125" tx="386.95" ty="50.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="1274.8" y="1650"/>
+                                             </transformationPoint>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+          <DOMTimeline name="Scene 2">
+               <layers>
+                    <DOMLayer name="Actions" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[var score=0; 
+ascore.text=score.toString();
+
+
+var fl_SecondsToCountDown_2:Number = 1000;
+
+var fl_CountDownTimerInstance_2:Timer = new Timer(1000, fl_SecondsToCountDown_2);
+fl_CountDownTimerInstance_2.addEventListener(TimerEvent.TIMER, fl_CountDownTimerHandler_2);
+fl_CountDownTimerInstance_2.start();
+
+function fl_CountDownTimerHandler_2(event:TimerEvent):void
+{
+	trace(fl_SecondsToCountDown_2 + " seconds");
+	fl_SecondsToCountDown_2--;
+	atime.text=fl_SecondsToCountDown_2.toString();
+	
+	if (fl_SecondsToCountDown_2<=0) {
+		gotoAndStop(2, "Scene 3");
+	}
+}
+
+
+stage.addEventListener(Event.ENTER_FRAME,followBall);
+
+function followBall(event:Event):void {
+	var dx:int = abee.x - mouseX;
+	var dy:int = abee.y - mouseY;
+		abee.x -= dx / 5;
+		abee.y -= dy /5;	
+	var dx:int = bbee.x - mouseX;
+	var dy:int = bbee.y - mouseY;
+		bbee.x -= dx /10;
+		bbee.y -= dy /10;	
+}
+
+stage.addEventListener(Event.ENTER_FRAME, gameloop); 
+
+function gameloop(e:Event):void{ 
+	atree.x-=10; 
+		if (atree.x<-200){ 
+		atree.x=650;
+		}
+
+	btree.x-=10; 
+		if (btree.x<-400){ 
+		btree.x=800;
+		}
+		
+	ctree.x-=10; 
+		if (ctree.x<-300){ 
+		ctree.x=700;
+		}
+		
+	abush.x-=10; 
+		if (abush.x<-270){ 
+		abush.x=610;
+		}
+
+	bbush.x-=10; 
+		if (bbush.x<-270){ 
+		bbush.x=610;
+		}
+		
+	cbush.x-=10; 
+		if (cbush.x<-270){ 
+		cbush.x=610;
+		}
+		
+	acloud.x-=2; 
+		if (acloud.x<-200){ 
+		acloud.x=650;
+		}
+
+	bcloud.x-=2; 
+		if (bcloud.x<-400){ 
+		bcloud.x=800;
+		}
+		
+	ccloud.x-=2; 
+		if (ccloud.x<-300){ 
+		ccloud.x=700;
+		}
+	
+	aflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (aflwr.x<-300){ 
+		aflwr.x=600
+		aflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	bflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (bflwr.x<-300){ 
+		bflwr.x=600
+		bflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	cflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (cflwr.x<-300){ 
+		cflwr.x=600
+		cflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	dflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (dflwr.x<-300){ 
+		dflwr.x=600
+		dflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	eflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (eflwr.x<-300){ 
+		eflwr.x=600
+		eflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	fflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (fflwr.x<-300){ 
+		fflwr.x=600
+		fflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	gflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (gflwr.x<-300){ 
+		gflwr.x=600
+		gflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	hflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (hflwr.x<-300){ 
+		hflwr.x=600
+		hflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	iflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (iflwr.x<-300){ 
+		iflwr.x=600
+		iflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	jflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (jflwr.x<-300){ 
+		jflwr.x=600
+		jflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	kflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (kflwr.x<-300){ 
+		kflwr.x=600
+		kflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	lflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (lflwr.x<-300){ 
+		lflwr.x=600
+		lflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	mflwr.x-=Math.random() * (10 - 1) + 1; 
+		if (mflwr.x<-300){ 
+		mflwr.x=600
+		mflwr.y=Math.random() * (300 - 7) + 7;
+		}
+	
+	if (abee.hitTestObject(aflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(bflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(cflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(dflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(eflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(fflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(gflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(hflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(iflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(jflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(kflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(lflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (abee.hitTestObject(mflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(aflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(bflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(cflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(dflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(eflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(fflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(gflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(hflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(iflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(jflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(kflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(lflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+	if (bbee.hitTestObject(mflwr)) { 
+		score++; 
+		ascore.text=score.toString(); 
+		}
+}
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="flower" name="kflwr" centerPoint3DX="481.6" centerPoint3DY="325.15">
+                                             <matrix>
+                                                  <Matrix tx="481.6" ty="325.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="hflwr" centerPoint3DX="581" centerPoint3DY="169.1">
+                                             <matrix>
+                                                  <Matrix tx="581" ty="169.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="mflwr" centerPoint3DX="364.4" centerPoint3DY="169.1">
+                                             <matrix>
+                                                  <Matrix tx="364.4" ty="169.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="eflwr" centerPoint3DX="931.6" centerPoint3DY="194.4">
+                                             <matrix>
+                                                  <Matrix tx="931.6" ty="194.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="cflwr" centerPoint3DX="1040.4" centerPoint3DY="278.9">
+                                             <matrix>
+                                                  <Matrix tx="1040.4" ty="278.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="fflwr" centerPoint3DX="760" centerPoint3DY="104">
+                                             <matrix>
+                                                  <Matrix tx="760" ty="104"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="aflwr" centerPoint3DX="570" centerPoint3DY="22.4">
+                                             <matrix>
+                                                  <Matrix tx="570" ty="22.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="lflwr" centerPoint3DX="681" centerPoint3DY="304.2">
+                                             <matrix>
+                                                  <Matrix tx="681" ty="304.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="gflwr" centerPoint3DX="1094" centerPoint3DY="163.8">
+                                             <matrix>
+                                                  <Matrix tx="1094" ty="163.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="iflwr" centerPoint3DX="965.6" centerPoint3DY="325.15">
+                                             <matrix>
+                                                  <Matrix tx="965.6" ty="325.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="jflwr" centerPoint3DX="750.8" centerPoint3DY="184.3">
+                                             <matrix>
+                                                  <Matrix tx="750.8" ty="184.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="dflwr" centerPoint3DX="839.15" centerPoint3DY="304.2">
+                                             <matrix>
+                                                  <Matrix tx="839.15" ty="304.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flower" name="bflwr" centerPoint3DX="962" centerPoint3DY="99.7">
+                                             <matrix>
+                                                  <Matrix tx="962" ty="99.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="ascore" width="83.6" height="19.9" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="18.4" ty="43.65"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" size="20" bitmapSize="400" face="Champagne&amp;Limousines"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMDynamicText name="atime" width="84.4" height="23.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="439.2" ty="46.55"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" size="20" bitmapSize="400" face="Champagne&amp;Limousines"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMStaticText width="82" height="19.9" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="18.4" ty="16.4"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>score</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" size="20" bitmapSize="400" face="Champagne&amp;Limousines"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="80" height="19.9" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="440" ty="17.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>time</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" size="20" bitmapSize="400" face="Champagne&amp;Limousines"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4FFF4F">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="clouda" name="acloud" centerPoint3DX="-188.25" centerPoint3DY="52.55">
+                                             <matrix>
+                                                  <Matrix tx="-188.25" ty="52.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="cloudb" name="bcloud" centerPoint3DX="158.2" centerPoint3DY="61.65">
+                                             <matrix>
+                                                  <Matrix tx="158.2" ty="61.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="cloudc" name="ccloud" centerPoint3DX="560.8" centerPoint3DY="76.45">
+                                             <matrix>
+                                                  <Matrix tx="560.8" ty="76.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="busha" name="abush" centerPoint3DX="-27" centerPoint3DY="377.6">
+                                             <matrix>
+                                                  <Matrix a="1.44682312011719" tx="-27" ty="377.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="bushb" name="bbush" centerPoint3DX="307.9" centerPoint3DY="377.6">
+                                             <matrix>
+                                                  <Matrix a="1.29788208007813" tx="307.9" ty="377.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="bushc" name="cbush" centerPoint3DX="607.6" centerPoint3DY="374.95">
+                                             <matrix>
+                                                  <Matrix a="1.25186157226563" tx="607.6" ty="374.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="treea" name="atree" centerPoint3DX="51.65" centerPoint3DY="246.25">
+                                             <matrix>
+                                                  <Matrix tx="51.65" ty="246.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="treeb" name="btree" centerPoint3DX="528.35" centerPoint3DY="258.7">
+                                             <matrix>
+                                                  <Matrix tx="528.35" ty="258.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="treec" name="ctree" centerPoint3DX="401.65" centerPoint3DY="282.25">
+                                             <matrix>
+                                                  <Matrix tx="401.65" ty="282.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="beea" name="abee" centerPoint3DX="263.35" centerPoint3DY="231.35">
+                                             <matrix>
+                                                  <Matrix tx="263.35" ty="231.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="beea" name="bbee" centerPoint3DX="223.8" centerPoint3DY="231.35">
+                                             <matrix>
+                                                  <Matrix tx="223.8" ty="231.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+          <DOMTimeline name="Scene 3">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="75.2" height="19.9" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="164.4" ty="169.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>score:</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="right" aliasText="false" size="20" bitmapSize="400" face="Champagne&amp;Limousines"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMDynamicText name="ascore" selected="true" width="108" height="19.9" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="250.4" ty="172.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters></characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="Champagne&amp;Limousines"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <swatchLists>
+          <swatchList>
+               <swatches>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#003300" hue="80" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006600" hue="80" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009900" hue="80" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC00" hue="80" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330000" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333300" hue="40" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#336600" hue="60" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#339900" hue="67" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#33CC00" hue="70" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#33FF00" hue="72" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#660000" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663300" hue="20" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#666600" hue="40" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#669900" hue="53" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#66CC00" hue="60" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#66FF00" hue="64" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000033" hue="160" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#003333" hue="120" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006633" hue="100" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009933" hue="93" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC33" hue="90" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF33" hue="88" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330033" hue="200" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem color="#336633" hue="80" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339933" hue="80" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC33" hue="80" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF33" hue="80" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660033" hue="220" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663333" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666633" hue="40" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#669933" hue="60" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#66CC33" hue="67" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#66FF33" hue="70" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000066" hue="160" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#003366" hue="140" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#006666" hue="120" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009966" hue="107" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC66" hue="100" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF66" hue="96" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330066" hue="180" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#333366" hue="160" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#336666" hue="120" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339966" hue="100" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC66" hue="93" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF66" hue="90" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660066" hue="200" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663366" hue="200" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem color="#669966" hue="80" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC66" hue="80" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF66" hue="80" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000099" hue="160" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#003399" hue="147" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#006699" hue="133" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#009999" hue="120" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC99" hue="110" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF99" hue="104" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330099" hue="173" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#333399" hue="160" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#336699" hue="140" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#339999" hue="120" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC99" hue="107" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF99" hue="100" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660099" hue="187" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#663399" hue="180" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#666699" hue="160" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#669999" hue="120" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC99" hue="100" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF99" hue="93" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000CC" hue="160" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0033CC" hue="150" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0066CC" hue="140" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0099CC" hue="130" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00CCCC" hue="120" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FFCC" hue="112" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300CC" hue="170" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#3333CC" hue="160" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3366CC" hue="147" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3399CC" hue="133" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33CCCC" hue="120" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FFCC" hue="110" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600CC" hue="180" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#6633CC" hue="173" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#6666CC" hue="160" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#6699CC" hue="140" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66CCCC" hue="120" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FFCC" hue="107" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0033FF" hue="152" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0066FF" hue="144" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0099FF" hue="136" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00CCFF" hue="128" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300FF" hue="168" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3333FF" hue="160" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3366FF" hue="150" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3399FF" hue="140" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33CCFF" hue="130" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33FFFF" hue="120" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600FF" hue="176" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#6633FF" hue="170" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6666FF" hue="160" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#6699FF" hue="147" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66CCFF" hue="133" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66FFFF" hue="120" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990000" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993300" hue="13" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#996600" hue="27" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#999900" hue="40" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#99CC00" hue="50" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#99FF00" hue="56" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC0000" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3300" hue="10" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC6600" hue="20" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC9900" hue="30" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCCC00" hue="40" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCFF00" hue="48" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3300" hue="8" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF6600" hue="16" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF9900" hue="24" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFCC00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990033" hue="227" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993333" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996633" hue="20" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#999933" hue="40" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#99CC33" hue="53" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#99FF33" hue="60" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC0033" hue="230" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3333" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6633" hue="13" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC9933" hue="27" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCCC33" hue="40" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCFF33" hue="50" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF0033" hue="232" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3333" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6633" hue="10" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF9933" hue="20" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFCC33" hue="30" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFFF33" hue="40" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990066" hue="213" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993366" hue="220" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996666" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999966" hue="40" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#99CC66" hue="60" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#99FF66" hue="67" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC0066" hue="220" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3366" hue="227" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6666" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9966" hue="20" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCCC66" hue="40" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCFF66" hue="53" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF0066" hue="224" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3366" hue="230" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6666" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9966" hue="13" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFCC66" hue="27" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFFF66" hue="40" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990099" hue="200" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993399" hue="200" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996699" hue="200" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#99CC99" hue="80" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FF99" hue="80" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC0099" hue="210" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3399" hue="213" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6699" hue="220" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9999" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCC99" hue="40" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCFF99" hue="60" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FF0099" hue="216" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3399" hue="220" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6699" hue="227" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9999" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCC99" hue="20" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFFF99" hue="40" saturation="239" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900CC" hue="190" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#9933CC" hue="187" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#9966CC" hue="180" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#9999CC" hue="160" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99CCCC" hue="120" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FFCC" hue="100" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00CC" hue="200" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC33CC" hue="200" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC66CC" hue="200" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC99CC" hue="200" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem color="#CCFFCC" hue="80" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00CC" hue="208" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33CC" hue="210" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66CC" hue="213" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99CC" hue="220" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCCC" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFCC" hue="40" saturation="239" brightness="216"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900FF" hue="184" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#9933FF" hue="180" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#9966FF" hue="173" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#9999FF" hue="160" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99CCFF" hue="140" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99FFFF" hue="120" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00FF" hue="192" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC33FF" hue="190" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC66FF" hue="187" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC99FF" hue="180" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CCCCFF" hue="160" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#CCFFFF" hue="120" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33FF" hue="200" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66FF" hue="200" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99FF" hue="200" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCFF" hue="200" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+               </swatches>
+          </swatchList>
+     </swatchLists>
+     <extendedSwatchLists>
+          <swatchList>
+               <swatches>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#00FF00" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#0066FD" ratio="0"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.376470588235294"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.47843137254902"/>
+                         <GradientEntry color="#996600" ratio="0.501960784313725"/>
+                         <GradientEntry color="#FFCC00" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry color="#FFFF00" ratio="0.164705882352941"/>
+                         <GradientEntry color="#00FF00" ratio="0.364705882352941"/>
+                         <GradientEntry color="#00FFFF" ratio="0.498039215686275"/>
+                         <GradientEntry color="#0000FF" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FF00FF" ratio="0.831372549019608"/>
+                         <GradientEntry color="#FF0000" ratio="1"/>
+                    </LinearGradientSwatchItem>
+               </swatches>
+          </swatchList>
+     </extendedSwatchLists>
+     <persistentData>
+          <PD n="Mouse Click Event" t="i" v="4"/>
+          <PD n="Countdown Timer" t="i" v="3"/>
+          <PD n="Follow Mouse" t="i" v="2"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="823783" publishTime="1388493068"/>
+          <PublishItem publishSize="823782" publishTime="1388493028"/>
+          <PublishItem publishSize="823784" publishTime="1388492911"/>
+          <PublishItem publishSize="823781" publishTime="1388492822"/>
+          <PublishItem publishSize="823785" publishTime="1388492621"/>
+          <PublishItem publishSize="791546" publishTime="1388492565" publishDebug="true"/>
+          <PublishItem publishSize="789110" publishTime="1388492481" publishDebug="true"/>
+          <PublishItem publishSize="1036473" publishTime="1388492441"/>
+          <PublishItem publishSize="824546" publishTime="1388492322" publishDebug="true"/>
+          <PublishItem publishSize="823781" publishTime="1388492245"/>
+          <PublishItem publishSize="823926" publishTime="1388492049"/>
+          <PublishItem publishSize="823926" publishTime="1388491870"/>
+          <PublishItem publishSize="1077660" publishTime="1388491781"/>
+          <PublishItem publishSize="1080301" publishTime="1388491726" publishDebug="true"/>
+          <PublishItem publishSize="1080623" publishTime="1388491280" publishDebug="true"/>
+          <PublishItem publishSize="1079278" publishTime="1388491233"/>
+          <PublishItem publishSize="824771" publishTime="1388491141"/>
+          <PublishItem publishSize="824555" publishTime="1388491078"/>
+          <PublishItem publishSize="824554" publishTime="1388491035"/>
+          <PublishItem publishSize="824540" publishTime="1388490795"/>
+     </publishHistory>
+</DOMDocument>

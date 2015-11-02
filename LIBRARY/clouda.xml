@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="clouda" itemID="52c28835-000002ae" linkageExportForAS="true" linkageClassName="clouda" lastModified="1388480565">
+  <timeline>
+    <DOMTimeline name="clouda">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="cloud3.png">
+                  <matrix>
+                    <Matrix a="0.139205932617188" d="0.134674072265625" tx="-132.8" ty="-123.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="954" y="920"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

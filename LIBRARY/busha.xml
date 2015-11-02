@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="busha" itemID="52c286e3-0000027e" linkageExportForAS="true" linkageClassName="busha" lastModified="1388480227">
+  <timeline>
+    <DOMTimeline name="busha">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="bushes.png">
+                  <matrix>
+                    <Matrix a="0.105987548828125" d="0.112518310546875" tx="-174.85" ty="-45.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1650.2" y="403.95"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
